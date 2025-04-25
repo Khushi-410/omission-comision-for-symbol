@@ -13,7 +13,7 @@ Follow the steps below to set up and run the **frontend** and **backend** of the
 
 ---
 
-### ✅ Option 1: Using Virtual Environment (Recommended)
+###  Option 1: Using Virtual Environment (Recommended)
 
 ```bash
 # 1. Navigate to the backend folder
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### ✅ Option 2: Without Virtual Environment
+###  Option 2: Without Virtual Environment
 ```bash
 Copy
 Edit
